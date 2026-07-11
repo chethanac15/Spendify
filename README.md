@@ -155,4 +155,4 @@ The app should now be running at `http://localhost:5000` (or `http://localhost:3
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Developed with ❤️ by Manoj S*
+
